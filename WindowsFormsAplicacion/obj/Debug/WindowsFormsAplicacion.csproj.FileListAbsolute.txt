@@ -1,0 +1,13 @@
+C:\Users\fuchibolcosas\source\repos\WindowsFormsAplicacion\WindowsFormsAplicacion\obj\Debug\WindowsFormsAplicacion.csproj.AssemblyReference.cache
+C:\Users\fuchibolcosas\source\repos\WindowsFormsAplicacion\WindowsFormsAplicacion\obj\Debug\WindowsFormsAplicacion.Form1.resources
+C:\Users\fuchibolcosas\source\repos\WindowsFormsAplicacion\WindowsFormsAplicacion\obj\Debug\WindowsFormsAplicacion.Properties.Resources.resources
+C:\Users\fuchibolcosas\source\repos\WindowsFormsAplicacion\WindowsFormsAplicacion\obj\Debug\WindowsFormsAplicacion.csproj.GenerateResource.cache
+C:\Users\fuchibolcosas\source\repos\WindowsFormsAplicacion\WindowsFormsAplicacion\obj\Debug\WindowsFormsAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\fuchibolcosas\source\repos\WindowsFormsAplicacion\WindowsFormsAplicacion\bin\Debug\WindowsFormsAplicacion.exe.config
+C:\Users\fuchibolcosas\source\repos\WindowsFormsAplicacion\WindowsFormsAplicacion\bin\Debug\WindowsFormsAplicacion.exe
+C:\Users\fuchibolcosas\source\repos\WindowsFormsAplicacion\WindowsFormsAplicacion\bin\Debug\WindowsFormsAplicacion.pdb
+C:\Users\fuchibolcosas\source\repos\WindowsFormsAplicacion\WindowsFormsAplicacion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fuchibolcosas\source\repos\WindowsFormsAplicacion\WindowsFormsAplicacion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fuchibolcosas\source\repos\WindowsFormsAplicacion\WindowsFormsAplicacion\obj\Debug\WindowsFormsAplicacion.csproj.CopyComplete
+C:\Users\fuchibolcosas\source\repos\WindowsFormsAplicacion\WindowsFormsAplicacion\obj\Debug\WindowsFormsAplicacion.exe
+C:\Users\fuchibolcosas\source\repos\WindowsFormsAplicacion\WindowsFormsAplicacion\obj\Debug\WindowsFormsAplicacion.pdb

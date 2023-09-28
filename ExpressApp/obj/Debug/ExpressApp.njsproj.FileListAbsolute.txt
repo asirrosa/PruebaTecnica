@@ -1,0 +1,3 @@
+C:\Users\fuchibolcosas\source\repos\WindowsFormsAplicacion\ExpressApp\obj\Debug\ExpressApp.njsproj.AssemblyReference.cache
+C:\Users\fuchibolcosas\source\repos\WindowsFormsAplicacion\ExpressApp\obj\Debug\ExpressApp.njsproj.CoreCompileInputs.cache
+C:\Users\fuchibolcosas\source\repos\WindowsFormsAplicacion\ExpressApp\bin\Microsoft.NodejsTools.WebRole.dll
