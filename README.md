@@ -12,7 +12,7 @@
 
 8. Finalmente una vez hayamos realizado el anterior paso ejecutaremos el programa WindowsFormsAplicacion.
 
-## Funcionamiento 
+## Funcionamiento de la aplicación
 1. Presionar el botón ``Guardar nota`` para guardar el valor del campo de texto, en caso de no haber nada escrito saldrá warning (para ver la lista de notas actualizada clicar en el botón ``Leer notas``).
 2. Presionar ``Leer notas`` para ver todas las notas guardadas.
 3. Presionar ``Borrar notas`` para borrar todas las notas de nuestro archivo JSON (para ver la lista de notas actualizada clicar en el botón ``Leer notas``).
